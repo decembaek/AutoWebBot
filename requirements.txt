@@ -1,0 +1,6 @@
+selenium
+webdriver_manager
+langchain
+langchain-core
+langchain-openai
+-qU langchain-openai
